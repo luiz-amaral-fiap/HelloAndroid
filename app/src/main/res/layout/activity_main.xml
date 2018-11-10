@@ -75,7 +75,7 @@
             android:entries="@array/formas_pagamento"></Spinner>
 
         <Button
-            style="@style/button"
+            style="@style/button_personalizado"
             android:text="@string/button_calcular" />
 
     </LinearLayout>

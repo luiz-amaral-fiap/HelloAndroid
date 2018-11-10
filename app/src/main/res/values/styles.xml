@@ -16,7 +16,7 @@
     </style>
 
     <style name="checkbox_pizza" parent="@style/margin_lateral">
-        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_weight">1</item>
     </style>
@@ -61,7 +61,7 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
 
-    <style name="button">
+    <style name="button_personalizado">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">@drawable/botao_personalizado</item>
