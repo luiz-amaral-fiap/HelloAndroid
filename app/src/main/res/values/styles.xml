@@ -5,9 +5,9 @@
     <!-- parent -> Herança do CSS -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimary">#00796B</item>
         <item name="colorPrimaryDark">#00796B</item>
-        <item name="colorAccent">#8BC34A</item>
+        <item name="colorAccent">#004d40</item>
     </style>
 
     <style name="margin_lateral">
@@ -64,6 +64,7 @@
     <style name="button_personalizado">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
         <item name="android:background">@drawable/botao_personalizado</item>
     </style>
 
