@@ -18,5 +18,9 @@
     <string name="vr">Vale Refeição</string>
     <string name="fiado">Fiado</string>
     <string name="cupom">Cupom</string>
-    <string name="button_calcular">Calcular</string>
+    <string name="label_calcular">Calcular</string>
+    <string name="label_telefone">Número do Telefone</string>
+    <string name="label_fazer_pedido">Fazer Pedido</string>
+
+    <string name="saudacao">Olá %1$s, Vamos ligar para o número %2$s!</string>
 </resources>
